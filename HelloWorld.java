@@ -12,6 +12,9 @@ public class HelloWorld {
         
         System.out.print("I've been here!");
         System.out.print("KurtAntonio");
+        
+        System.out.print("I've been here!");
+        System.out.print("Mary Ann Ureta");
     }
     
 }
